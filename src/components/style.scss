@@ -1,0 +1,106 @@
+.app{
+    background-color: rgb(12, 12, 12);
+    text-align: center;
+    min-height: 100vh;
+}
+
+.header{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size:xx-large;
+    color: rgb(243, 212, 171);
+    
+  
+ 
+}
+
+.column{
+    color: white;
+    font-weight: bold;
+}
+
+.ui button{
+  
+    background: rgb(114, 114, 122);
+    margin-right: 8px;
+    border: none;
+    font-size: 20px;
+    width: 40px;
+    border-radius: 10px;
+    height: 40px;
+    user-select: none; 
+    line-height: 20px;
+}
+
+.ui button:hover,
+.ui button:hover {
+  background: #b9c0d4;
+  color: #fff;
+  cursor: pointer;
+}
+
+.cart{
+    margin-top: 20px;
+    display: flex;
+    flex-flow: column;
+}
+.ui-grid{
+display: flex;
+}
+
+.cart-remove{
+    float: left;
+    margin-left: 15%;
+    margin-top: 4px;
+}
+
+.cart-total{
+    float: right;
+    margin-top: 10px;
+    background: rgb(114, 114, 122);
+    margin-right: 4px;
+    border: none;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    user-select: none; 
+    width:90px
+   
+   
+}
+.cart-total:hover,
+.cart-total:hover {
+  background: #b9c0d4;
+  color: #fff;
+  cursor: pointer;
+}
+hr {
+    margin: auto 20px;
+    border: 2px solid rgb(255, 255, 255);
+    color: aliceblue;
+    margin-top: 8px;
+  }
+.row{
+    color: white;
+    font-weight: bold;
+}
+.table-row{
+    color: white;
+    font-weight: bold;
+    width: 12%;
+}
+.cart-button{
+    color: white;
+    font-weight: bold;
+    width: 65%;
+    margin-top: 16px;
+    text-align: end;
+}
+
+.cart-no{
+    color: white;
+    font-weight: bold;
+    width: 88%;
+    margin-top: 16px;
+    text-align: end;
+}

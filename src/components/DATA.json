@@ -1,0 +1,11 @@
+[{"id":"1", "game_name":"CR90 corvette","description":"CR90 corvette","game_quantity":0,"game_price":"3500000"},
+    {"id":"2","game_name":"Star Destroyer","description":"Imperial I-class star destroyer","game_quantity":0,"game_price":"150000000"},
+    {"id":"3", "game_name":"Sentinal-class landing craft ","description":"Sentinal-class landing craft","game_quantity":0,"game_price":"240000"},
+    {"id":"4","game_name":"Death Star","description":"DS1 orbital battle station","game_quantity":0,"game_price":"10000000"},
+    {"id":"5","game_name":"Millennium Falcon","description":"Yt 1300 light fighter","game_quantity":0,"game_price":"100000"},
+    {"id":"6","game_name":"Y-Wing","description":"BTL Y-Wing","game_quantity":0,"game_price":"134999"},
+    {"id":"7","game_name":"X-Wing","description":"T-65 X wing","game_quantity":0,"game_price":"149999"},
+    {"id":"8","game_name":"TIE Advanced x1","description":" Twin IONengine advanced x1","game_quantity":0,"game_price":"Unavailable"},
+    {"id":"9","game_name":"Executor","description":"Executor class star","game_quantity":0,"game_price":"14335000"},
+    {"id":"10","game_name":"Rebel transport","description":"GR 75 medium transport","game_quantity":0,"game_price":"Unavailable"}
+]
